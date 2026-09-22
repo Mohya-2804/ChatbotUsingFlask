@@ -26,8 +26,8 @@ COLLECTION_NAME = "customer_orders"
 # ┌─────────────────────────────────────────────────────────────┐
 # │          🔑  PASTE YOUR QDRANT CLOUD CREDENTIALS HERE       │
 # └─────────────────────────────────────────────────────────────┘
-QDRANT_URL           = "https://95df3407-4971-4ac5-bf3f-50fcbf6cfeb6.us-east4-0.gcp.cloud.qdrant.io:6333"
-QDRANT_API_KEY       = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.BegD8NOMpNf22O_Ss_CZFhwZHSAUSHi3vnhy86M0bS0"                   # 👈 Your Qdrant API Key
+QDRANT_URL           = "Your URL"
+QDRANT_API_KEY       = "Your API key"                   # 👈 Your Qdrant API Key
 
 
 # ── Client factory ─────────────────────────────────────────────────────────────
