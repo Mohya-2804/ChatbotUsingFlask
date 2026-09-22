@@ -30,7 +30,7 @@ from response_model import (
 # ══════════════════════════════════════════════════════════════════════════════
 # 🔑  CONFIGURATION
 # ══════════════════════════════════════════════════════════════════════════════
-GEMINI_API_KEY   = "AIzaSyDvS-x1K-krZTGzj46_9td6N9suB5nJac4"         # 👈 paste your Gemini API key
+GEMINI_API_KEY   = "Your API key"         # 👈 paste your Gemini API key
 ORDERS_JSON_PATH = "C:\\Users\\gudla\\Downloads\\chatbotwithflask\\Customerdetails.json"
 TOP_K_RESULTS    = 20
 SCORE_THRESHOLD  = 0.30
